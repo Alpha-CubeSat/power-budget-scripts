@@ -1,6 +1,6 @@
 # Power Budget Scripts
 
-Scripts for power budget tests
+Tools for power budget tests.
 
 To see which serial ports are active, run `python get_ports.py`
 
