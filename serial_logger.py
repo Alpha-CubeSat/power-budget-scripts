@@ -6,11 +6,11 @@ import time
 
 # Change to match the desired serial ports
 try:
-    leonardoSerial = serial.Serial(port = 'COM8', baudrate=115200, timeout=1)
-except: 
+    leonardoSerial = serial.Serial(port = "COM8", baudrate=115200, timeout=1)
+except:
     leonardoSerial = None
 try:
-    teensySerial = serial.Serial(port = 'COM6', baudrate=9600, timeout=1)
+    teensySerial = serial.Serial(port = "COM9", baudrate=9600, timeout=1)
 except: 
     teensySerial = None
 
@@ -18,15 +18,15 @@ except:
 def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
 
     # Create log files
-    teensyFile = open(teensyFileName, "w")
-    leonardoFile = open(leonardoFileName, "w")
+    teensyFile = open(teensyFileName, "w", newline="")
+    leonardoFile = open(leonardoFileName, "w", newline="")
 
     # Program stop flag
     keyPressed = False
 
-    with open(combinedFileName, "w", newline='') as csvFile:
-        # Create a CSV writer object  
-        csvWriter = csv.writer(csvFile)  
+    with open(combinedFileName, "w", newline="") as csvFile:
+        # Create a CSV writer object
+        csvWriter = csv.writer(csvFile)
 
         # Write the CSV rows
         csvWriter.writerow([
@@ -45,7 +45,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             "ACS On/Off",
             "Battery Voltage (Onboard)",
             "IMU On/Off",
-            "Optical Sensor On/Off"
+            "Optical Sensor On/Off",
             "Solar Current (Onboard)",
             "RockBLOCK Sleeping/Awake",
             "RockBLOCK Mode",
@@ -77,14 +77,25 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             teensySerial.reset_input_buffer()
             leonardoSerial.reset_input_buffer()
 
+            # Let the serial buffers fill up, characters get immediately after a reset
+            i = 0
+            while i < 50:
+                teensySerial.readline()
+                leonardoSerial.readline()
+                i = i + 1
+
             # Wait until start of Teensy loop
             if (teensySerial is not None):
-                while ("START LOOP" not in teensySerial.readline().decode()):
+                teensyLine = teensySerial.readline().decode()
+                while ("START LOOP" not in teensyLine):
+                    teensyLine = teensySerial.readline().decode()
                     pass
-            
+
+                # Write start loop indicator
+                teensyFile.write(teensyLine)
+
             # Wait until start of Leonardo loop
             if (leonardoSerial is not None):
-                # Eat the next loop if there are no teensy values to be read
                 while ("Time" not in leonardoSerial.readline().decode()):
                     pass
 
@@ -92,12 +103,11 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             if ((teensySerial is not None) and (teensySerial.inWaiting() > 0)):
                 # Write timestamp to logs
                 timestamp = round(time.time() * 1000)
-                teensyFile.write("--------------------END LOOP--------------------\n")
                 teensyFile.write("Timestamp: " + str(timestamp) + "\n")
-                leonardoFile.write("Timestamp: " + str(timestamp) + "\n")
-                
+                leonardoFile.write("\nTimestamp: " + str(timestamp) + "\n")
+
                 # Process lines from the Teensy serial line for one loop
-                teensyLine = teensySerial.readline().strip().decode()
+                teensyLine = teensySerial.readline().decode()
                 while ("START LOOP" not in teensyLine):
                     # Write the line to the Teensy text log
                     teensyFile.write(teensyLine) # new line is included already
@@ -116,6 +126,8 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
                             ACSMode = value
                         elif label == "Battery Voltage":
                             batteryVoltageOB = value.split(" ")[0]
+                        elif label == "Solar Current":
+                            solarCurrentOB = value.split(" ")[0]
                         elif label == "RockBLOCK Mode":
                             rockblockMode = value
                     else:
@@ -133,6 +145,14 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
                             elif label == "RockBLOCK":
                                 rockblockSleeping = value
 
+                        elif (len(lineSplitSpace) == 3):
+                            label1, label2, value = lineSplitSpace
+                            value = value.strip()
+
+                            if label1 == "Optical" and label2 == "sensor":
+                                if value == "powered" or value == "UNpowered":
+                                    opticalSensorPowered = value
+
                     # Read the next line
                     teensyLine = teensySerial.readline().decode()
 
@@ -140,7 +160,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             if ((leonardoSerial is not None) and (leonardoSerial.inWaiting() > 0)):
 
                 # Process lines from the Leonardo line for one loop
-                leonardoLine = leonardoSerial.readline().strip().decode()
+                leonardoLine = leonardoSerial.readline().decode()
                 while ("Time" not in leonardoLine):
 
                     # Write the line to the Leonardo text log
@@ -149,7 +169,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
 
                     # Parse desired values to place in CSV
                     lineSplit = leonardoLine.split(":")
-                    
+
                     if len(lineSplit) == 2:
                         label, value = lineSplit
                         value = value.strip()
@@ -193,6 +213,8 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
                 ACSOnOff,
                 batteryVoltageOB,
                 IMUPowered,
+                opticalSensorPowered,
+                solarCurrentOB,
                 rockblockSleeping,
                 rockblockMode,
             ])

@@ -1,0 +1,185 @@
+--------------------START LOOP--------------------
+Timestamp: 1708626600275
+Current Mission Mode: Normal
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: SIMPLE
+ACS ON
+Battery Voltage: 3.85 V
+IMU powered
+MAG X: 11.53
+MAG Y: 11.56
+MAG Z: -10.79
+GYRO X: 0.05
+GYRO Y: 0.06
+GYRO Z: 0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp: 15.64 C
+Solar Current: 25.09 mA
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 2758672
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 255
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
+--------------------START LOOP--------------------
+Timestamp: 1708626605399
+Current Mission Mode: Normal
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: SIMPLE
+ACS ON
+Battery Voltage: 3.82 V
+IMU powered
+MAG X: 15.23
+MAG Y: 8.03
+MAG Z: -10.12
+GYRO X: 0.05
+GYRO Y: 0.05
+GYRO Z: 0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp: 15.62 C
+Solar Current: 25.00 mA
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 2764025
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 255
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
+--------------------START LOOP--------------------
+Timestamp: 1708626610522
+Current Mission Mode: Normal
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: SIMPLE
+ACS ON
+Battery Voltage: 3.80 V
+IMU powered
+MAG X: 17.41
+MAG Y: 4.72
+MAG Z: -7.82
+GYRO X: 0.05
+GYRO Y: 0.05
+GYRO Z: 0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp: 15.61 C
+Solar Current: 25.03 mA
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 2768980
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 255
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
+--------------------START LOOP--------------------
+Timestamp: 1708626615636
+Current Mission Mode: Normal
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: SIMPLE
+ACS ON
+Battery Voltage: 3.79 V
+IMU powered
+MAG X: 19.68
+MAG Y: 2.14
+MAG Z: -3.59
+GYRO X: 0.05
+GYRO Y: 0.05
+GYRO Z: 0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp: 15.60 C
+Solar Current: 25.12 mA
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 2774132
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 255
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
+--------------------START LOOP--------------------
+Timestamp: 1708626620755
+Current Mission Mode: Normal
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: SIMPLE
+ACS ON
+Battery Voltage: 3.79 V
+IMU powered
+MAG X: 19.57
+MAG Y: 0.93
+MAG Z: 0.92
+GYRO X: 0.05
+GYRO Y: 0.05
+GYRO Z: 0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp: 15.58 C
+Solar Current: 25.15 mA
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 2779284
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 255
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 

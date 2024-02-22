@@ -1,0 +1,75 @@
+
+Timestamp: 1708626600275
+-------------
+Current to/from Batteries: -0.34 mA
+Current to Satellite: 11.58 mA
+Current from Solar Panel: 24.07 mA
+-------------
+Battery Voltage: 0.93 V
+Satellite Voltage (from Charge Controller): 0.90 V
+Solar Panel Voltage: 7.59 V
+-------------
+Power to/from Batteries: 0.00 mW
+Power consumed by Satellite: 16.80 mW
+Power from Solar Panel: 203.20 mW
+-------------
+
+Timestamp: 1708626605399
+-------------
+Current to/from Batteries: -0.39 mA
+Current to Satellite: 11.31 mA
+Current from Solar Panel: 21.63 mA
+-------------
+Battery Voltage: 0.99 V
+Satellite Voltage (from Charge Controller): 0.92 V
+Solar Panel Voltage: 7.95 V
+-------------
+Power to/from Batteries: 0.00 mW
+Power consumed by Satellite: 6.60 mW
+Power from Solar Panel: 161.20 mW
+-------------
+
+Timestamp: 1708626610522
+-------------
+Current to/from Batteries: -0.33 mA
+Current to Satellite: 18.43 mA
+Current from Solar Panel: 28.65 mA
+-------------
+Battery Voltage: 0.92 V
+Satellite Voltage (from Charge Controller): 0.91 V
+Solar Panel Voltage: 6.56 V
+-------------
+Power to/from Batteries: 0.00 mW
+Power consumed by Satellite: 21.80 mW
+Power from Solar Panel: 203.00 mW
+-------------
+
+Timestamp: 1708626615636
+-------------
+Current to/from Batteries: -0.25 mA
+Current to Satellite: 15.61 mA
+Current from Solar Panel: 25.47 mA
+-------------
+Battery Voltage: 0.91 V
+Satellite Voltage (from Charge Controller): 0.99 V
+Solar Panel Voltage: 6.60 V
+-------------
+Power to/from Batteries: 0.00 mW
+Power consumed by Satellite: 27.40 mW
+Power from Solar Panel: 174.20 mW
+-------------
+
+Timestamp: 1708626620755
+-------------
+Current to/from Batteries: -0.28 mA
+Current to Satellite: 27.53 mA
+Current from Solar Panel: 18.84 mA
+-------------
+Battery Voltage: 0.98 V
+Satellite Voltage (from Charge Controller): 0.92 V
+Solar Panel Voltage: 8.00 V
+-------------
+Power to/from Batteries: 0.00 mW
+Power consumed by Satellite: 12.60 mW
+Power from Solar Panel: 154.80 mW
+-------------
