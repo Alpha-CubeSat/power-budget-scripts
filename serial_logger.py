@@ -24,7 +24,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
     # Program stop flag
     keyPressed = False
 
-    with open(combinedFileName, "w") as csvFile:
+    with open(combinedFileName, "w", newline='') as csvFile:
         # Create a CSV writer object  
         csvWriter = csv.writer(csvFile)  
 
@@ -45,6 +45,8 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             "ACS On/Off",
             "Battery Voltage (Onboard)",
             "IMU On/Off",
+            "Optical Sensor On/Off"
+            "Solar Current (Onboard)",
             "RockBLOCK Sleeping/Awake",
             "RockBLOCK Mode",
         ])
@@ -64,6 +66,8 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
         ACSOnOff = 0
         batteryVoltageOB = 0
         IMUPowered = 0
+        opticalSensorPowered = 0
+        solarCurrentOB = 0
         rockblockSleeping = 0
         rockblockMode = 0
 
@@ -87,12 +91,13 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             # Process flight software data from Teensy serial line
             if ((teensySerial is not None) and (teensySerial.inWaiting() > 0)):
                 # Write timestamp to logs
-                timestamp = round(time.time() * 1000)       
-                teensyFile.write("Timestamp: " + str(timestamp) + "\n\n")
-                leonardoFile.write("Timestamp: " + str(timestamp) + "\n\n")
+                timestamp = round(time.time() * 1000)
+                teensyFile.write("--------------------END LOOP--------------------\n")
+                teensyFile.write("Timestamp: " + str(timestamp) + "\n")
+                leonardoFile.write("Timestamp: " + str(timestamp) + "\n")
                 
                 # Process lines from the Teensy serial line for one loop
-                teensyLine = teensySerial.readline().decode()
+                teensyLine = teensySerial.readline().strip().decode()
                 while ("START LOOP" not in teensyLine):
                     # Write the line to the Teensy text log
                     teensyFile.write(teensyLine) # new line is included already
@@ -135,7 +140,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
             if ((leonardoSerial is not None) and (leonardoSerial.inWaiting() > 0)):
 
                 # Process lines from the Leonardo line for one loop
-                leonardoLine = leonardoSerial.readline().decode()
+                leonardoLine = leonardoSerial.readline().strip().decode()
                 while ("Time" not in leonardoLine):
 
                     # Write the line to the Leonardo text log
