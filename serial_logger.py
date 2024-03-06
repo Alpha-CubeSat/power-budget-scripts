@@ -187,7 +187,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
                             print("Current to Satellite:", value.split(" ")[0])
                         elif label == "Current from Solar Panel":
                             currentSolarPanel = value.split(" ")[0]
-                            print("Current from Satellite:", value.split(" ")[0])
+                            print("Current from Solar Panel:", value.split(" ")[0])
                         elif label == "Battery Voltage":
                             batteryVoltageTB = value.split(" ")[0]
                             print("Battery Voltage:", value.split(" ")[0])
