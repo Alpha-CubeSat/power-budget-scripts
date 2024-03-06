@@ -10,7 +10,7 @@ try:
 except:
     leonardoSerial = None
 try:
-    teensySerial = serial.Serial(port = "COM9", baudrate=9600, timeout=1)
+    teensySerial = serial.Serial(port = "COM6", baudrate=9600, timeout=1)
 except: 
     teensySerial = None
 
@@ -79,7 +79,7 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
 
             # Let the serial buffers fill up, characters get immediately after a reset
             i = 0
-            while i < 50:
+            while i < 25:
                 teensySerial.readline()
                 leonardoSerial.readline()
                 i = i + 1
@@ -104,6 +104,8 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
                 # Write timestamp to logs
                 timestamp = round(time.time() * 1000)
                 teensyFile.write("Timestamp: " + str(timestamp) + "\n")
+                print("----------------------------------------")
+                print("Timestamp: " + str(timestamp))
                 leonardoFile.write("\nTimestamp: " + str(timestamp) + "\n")
 
                 # Process lines from the Teensy serial line for one loop
@@ -122,14 +124,17 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
 
                         if label == "Current Mission Mode":
                             currentMissionMode = value
+                            print("Mission Mode:", value)
                         elif label == "ACS Mode":
                             ACSMode = value
                         elif label == "Battery Voltage":
                             batteryVoltageOB = value.split(" ")[0]
+                            print("Battery Voltage:", value.split(" ")[0])
                         elif label == "Solar Current":
                             solarCurrentOB = value.split(" ")[0]
                         elif label == "RockBLOCK Mode":
                             rockblockMode = value
+                            print("Rockblock Mode:", value)
                     else:
                         lineSplitSpace = teensyLine.split(" ")
 
@@ -176,16 +181,22 @@ def read_monitors(teensyFileName, leonardoFileName, combinedFileName):
 
                         if label == "Current to/from Batteries":
                             currentBatteries = value.split(" ")[0]
+                            print("Current to/from Batteries:", value.split(" ")[0])
                         elif label == "Current to Satellite":
                             currentSatellite = value.split(" ")[0]
+                            print("Current to Satellite:", value.split(" ")[0])
                         elif label == "Current from Solar Panel":
                             currentSolarPanel = value.split(" ")[0]
+                            print("Current from Satellite:", value.split(" ")[0])
                         elif label == "Battery Voltage":
                             batteryVoltageTB = value.split(" ")[0]
+                            print("Battery Voltage:", value.split(" ")[0])
                         elif label == "Satellite Voltage (from Charge Controller)":
                             satelliteVoltage = value.split(" ")[0]
+                            print("Satellite Voltage (from Charge Controller):", value.split(" ")[0])
                         elif label == "Solar Panel Voltage":
                             solarPanelVoltage = value.split(" ")[0]
+                            print("Solar Panel Voltage:", value.split(" ")[0])
                         elif label == "Power to/from Batteries":
                             powerBatteries = value.split(" ")[0]
                         elif label == "Power consumed by Satellite":

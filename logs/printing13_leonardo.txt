@@ -1,0 +1,5565 @@
+
+Timestamp: 1709691381790
+-------------
+Current to/from Batteries: 262.47 mA
+Current to Satellite: 42.50 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.88 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.69 V
+-------------
+Power to/from Batteries: 1066.60 mW
+Power consumed by Satellite: 184.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691384866
+-------------
+Current to/from Batteries: 57.05 mA
+Current to Satellite: 42.10 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 270.40 mW
+Power consumed by Satellite: 183.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691387931
+-------------
+Current to/from Batteries: 373.32 mA
+Current to Satellite: 40.51 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.96 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.66 V
+-------------
+Power to/from Batteries: 1329.40 mW
+Power consumed by Satellite: 178.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691391011
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 40.52 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 173.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691394082
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 40.00 mA
+Current from Solar Panel: -0.85 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 172.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691397154
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 39.98 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 172.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691400225
+-------------
+Current to/from Batteries: 165.30 mA
+Current to Satellite: 40.37 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 822.80 mW
+Power consumed by Satellite: 172.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691403298
+-------------
+Current to/from Batteries: 103.55 mA
+Current to Satellite: 39.06 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 507.40 mW
+Power consumed by Satellite: 168.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691406370
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 38.04 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 169.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691409442
+-------------
+Current to/from Batteries: 39.65 mA
+Current to Satellite: 39.41 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 211.60 mW
+Power consumed by Satellite: 170.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691412514
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 38.76 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 168.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691415587
+-------------
+Current to/from Batteries: 215.02 mA
+Current to Satellite: 38.83 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 881.60 mW
+Power consumed by Satellite: 167.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691418652
+-------------
+Current to/from Batteries: 167.17 mA
+Current to Satellite: 38.00 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 832.20 mW
+Power consumed by Satellite: 167.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691421730
+-------------
+Current to/from Batteries: 56.86 mA
+Current to Satellite: 38.60 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 270.00 mW
+Power consumed by Satellite: 165.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691424795
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 38.45 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 169.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691427874
+-------------
+Current to/from Batteries: 229.46 mA
+Current to Satellite: 37.61 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.86 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 953.00 mW
+Power consumed by Satellite: 165.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691430947
+-------------
+Current to/from Batteries: 324.19 mA
+Current to Satellite: 38.00 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.93 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.67 V
+-------------
+Power to/from Batteries: 1323.00 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691434019
+-------------
+Current to/from Batteries: 39.93 mA
+Current to Satellite: 37.82 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 212.60 mW
+Power consumed by Satellite: 167.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691437091
+-------------
+Current to/from Batteries: 23.18 mA
+Current to Satellite: 38.62 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 271.60 mW
+Power consumed by Satellite: 166.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691440162
+-------------
+Current to/from Batteries: 466.42 mA
+Current to Satellite: 37.96 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.61 V
+-------------
+Power to/from Batteries: 1878.80 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691443235
+-------------
+Current to/from Batteries: 105.11 mA
+Current to Satellite: 37.51 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 487.00 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691446307
+-------------
+Current to/from Batteries: -7.38 mA
+Current to Satellite: 37.92 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 167.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691449372
+-------------
+Current to/from Batteries: 418.70 mA
+Current to Satellite: 37.68 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 4.00 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.63 V
+-------------
+Power to/from Batteries: 1693.00 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 3.60 mW
+-------------
+
+Timestamp: 1709691452451
+-------------
+Current to/from Batteries: 466.54 mA
+Current to Satellite: 37.81 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.61 V
+-------------
+Power to/from Batteries: 1879.00 mW
+Power consumed by Satellite: 164.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691455517
+-------------
+Current to/from Batteries: 466.43 mA
+Current to Satellite: 37.62 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.61 V
+-------------
+Power to/from Batteries: 1878.00 mW
+Power consumed by Satellite: 164.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691458594
+-------------
+Current to/from Batteries: 229.25 mA
+Current to Satellite: 37.12 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.86 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 951.60 mW
+Power consumed by Satellite: 164.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691461667
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 36.85 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 163.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691464739
+-------------
+Current to/from Batteries: 466.97 mA
+Current to Satellite: 37.83 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.60 V
+-------------
+Power to/from Batteries: 1881.00 mW
+Power consumed by Satellite: 162.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691467811
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 37.78 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 163.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691470883
+-------------
+Current to/from Batteries: -7.44 mA
+Current to Satellite: 38.04 mA
+Current from Solar Panel: -0.84 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 167.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691473954
+-------------
+Current to/from Batteries: 466.56 mA
+Current to Satellite: 36.75 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.60 V
+-------------
+Power to/from Batteries: 1880.60 mW
+Power consumed by Satellite: 162.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691477022
+-------------
+Current to/from Batteries: 119.85 mA
+Current to Satellite: 36.55 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 510.00 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691480094
+-------------
+Current to/from Batteries: 309.25 mA
+Current to Satellite: 37.27 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.91 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.66 V
+-------------
+Power to/from Batteries: 1386.40 mW
+Power consumed by Satellite: 164.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691483167
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 37.14 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 164.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691486235
+-------------
+Current to/from Batteries: 212.89 mA
+Current to Satellite: 36.74 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 1010.60 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691489314
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.18 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 29.60 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691492384
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 37.80 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691495453
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 37.88 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691498530
+-------------
+Current to/from Batteries: 134.41 mA
+Current to Satellite: 37.32 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 581.40 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691501602
+-------------
+Current to/from Batteries: 164.66 mA
+Current to Satellite: 36.95 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.80 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 637.20 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691504675
+-------------
+Current to/from Batteries: 150.85 mA
+Current to Satellite: 37.45 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 690.60 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691507742
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 37.47 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 163.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691510804
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.53 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691513890
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.62 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691516962
+-------------
+Current to/from Batteries: 87.10 mA
+Current to Satellite: 36.82 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.40 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691520035
+-------------
+Current to/from Batteries: 245.19 mA
+Current to Satellite: 37.87 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 823.00 mW
+Power consumed by Satellite: 162.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691523101
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.19 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691526179
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.43 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691529251
+-------------
+Current to/from Batteries: 39.57 mA
+Current to Satellite: 36.80 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 212.60 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.40 mW
+-------------
+
+Timestamp: 1709691532323
+-------------
+Current to/from Batteries: 244.57 mA
+Current to Satellite: 37.65 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 820.80 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691535395
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 37.81 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691538467
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.29 mA
+Current from Solar Panel: -0.66 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691541539
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.52 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691544611
+-------------
+Current to/from Batteries: 260.26 mA
+Current to Satellite: 37.36 mA
+Current from Solar Panel: -0.85 mA
+-------------
+Battery Voltage: 3.88 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.68 V
+-------------
+Power to/from Batteries: 1195.40 mW
+Power consumed by Satellite: 163.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691547681
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.96 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691550751
+-------------
+Current to/from Batteries: 134.01 mA
+Current to Satellite: 36.49 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.20 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691553824
+-------------
+Current to/from Batteries: -7.45 mA
+Current to Satellite: 36.99 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691556898
+-------------
+Current to/from Batteries: 388.89 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.97 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.63 V
+-------------
+Power to/from Batteries: 1566.40 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691559971
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 37.26 mA
+Current from Solar Panel: -0.68 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691563043
+-------------
+Current to/from Batteries: 71.15 mA
+Current to Satellite: 37.01 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.74 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 328.20 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691566115
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 35.88 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691569187
+-------------
+Current to/from Batteries: 86.54 mA
+Current to Satellite: 36.77 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 212.60 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691572259
+-------------
+Current to/from Batteries: 259.65 mA
+Current to Satellite: 37.47 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 872.00 mW
+Power consumed by Satellite: 163.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691575330
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.16 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691578403
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.45 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691581475
+-------------
+Current to/from Batteries: 96.12 mA
+Current to Satellite: 36.87 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 456.60 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691584542
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.83 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691587614
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.71 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.40 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691590690
+-------------
+Current to/from Batteries: 197.62 mA
+Current to Satellite: 37.09 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 872.80 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691593755
+-------------
+Current to/from Batteries: 70.70 mA
+Current to Satellite: 36.77 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.73 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 319.40 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691596834
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.69 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691599905
+-------------
+Current to/from Batteries: 281.93 mA
+Current to Satellite: 36.95 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1009.60 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691602978
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.59 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691606050
+-------------
+Current to/from Batteries: 39.59 mA
+Current to Satellite: 36.59 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 211.00 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691609122
+-------------
+Current to/from Batteries: -7.46 mA
+Current to Satellite: 36.87 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691612195
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.94 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691615266
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.73 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691618338
+-------------
+Current to/from Batteries: 134.05 mA
+Current to Satellite: 36.71 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.20 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691621410
+-------------
+Current to/from Batteries: 7.71 mA
+Current to Satellite: 36.46 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 133.20 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691624482
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.44 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 164.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691627551
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 37.07 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691630626
+-------------
+Current to/from Batteries: 134.10 mA
+Current to Satellite: 36.48 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 578.80 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691633694
+-------------
+Current to/from Batteries: 104.27 mA
+Current to Satellite: 35.97 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 455.80 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691636765
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691639842
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.02 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.40 mW
+-------------
+
+Timestamp: 1709691642901
+-------------
+Current to/from Batteries: 197.46 mA
+Current to Satellite: 37.17 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 872.80 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691645982
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.18 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691649058
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.65 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691652126
+-------------
+Current to/from Batteries: 86.74 mA
+Current to Satellite: 37.18 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.20 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691655196
+-------------
+Current to/from Batteries: 165.67 mA
+Current to Satellite: 37.06 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 826.80 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691658274
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691661346
+-------------
+Current to/from Batteries: -7.47 mA
+Current to Satellite: 35.95 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691664415
+-------------
+Current to/from Batteries: -7.47 mA
+Current to Satellite: 37.20 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 165.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691667490
+-------------
+Current to/from Batteries: 212.94 mA
+Current to Satellite: 36.84 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 874.00 mW
+Power consumed by Satellite: 163.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691670561
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.53 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691673630
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.83 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691676703
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.74 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 163.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691679772
+-------------
+Current to/from Batteries: 229.47 mA
+Current to Satellite: 37.13 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 769.40 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691682846
+-------------
+Current to/from Batteries: 23.16 mA
+Current to Satellite: 36.17 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 132.40 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691685907
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691688993
+-------------
+Current to/from Batteries: -7.48 mA
+Current to Satellite: 36.07 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691692063
+-------------
+Current to/from Batteries: 233.87 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 821.40 mW
+Power consumed by Satellite: 163.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691695134
+-------------
+Current to/from Batteries: 55.79 mA
+Current to Satellite: 37.11 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 266.00 mW
+Power consumed by Satellite: 163.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691698209
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.44 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691701278
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.43 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691704353
+-------------
+Current to/from Batteries: 292.63 mA
+Current to Satellite: 37.29 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.90 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.68 V
+-------------
+Power to/from Batteries: 1191.80 mW
+Power consumed by Satellite: 165.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691707426
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 37.18 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691710498
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691713566
+-------------
+Current to/from Batteries: 165.87 mA
+Current to Satellite: 36.59 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 825.80 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691716642
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.26 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691719711
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 37.08 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691722774
+-------------
+Current to/from Batteries: 103.36 mA
+Current to Satellite: 36.96 mA
+Current from Solar Panel: -0.65 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 505.80 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691725857
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.01 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691728923
+-------------
+Current to/from Batteries: 119.79 mA
+Current to Satellite: 36.58 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 508.80 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691732001
+-------------
+Current to/from Batteries: 86.96 mA
+Current to Satellite: 36.91 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 366.60 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691735072
+-------------
+Current to/from Batteries: -7.48 mA
+Current to Satellite: 36.75 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 163.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691738146
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.69 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691741216
+-------------
+Current to/from Batteries: 276.55 mA
+Current to Satellite: 36.09 mA
+Current from Solar Panel: -0.84 mA
+-------------
+Battery Voltage: 3.89 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.69 V
+-------------
+Power to/from Batteries: 1136.40 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691744289
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.67 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691747358
+-------------
+Current to/from Batteries: 39.53 mA
+Current to Satellite: 36.83 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 211.80 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691750430
+-------------
+Current to/from Batteries: 118.80 mA
+Current to Satellite: 36.73 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 506.40 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691753506
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.74 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691756578
+-------------
+Current to/from Batteries: 134.22 mA
+Current to Satellite: 36.86 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 581.00 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691759643
+-------------
+Current to/from Batteries: 7.77 mA
+Current to Satellite: 36.72 mA
+Current from Solar Panel: -0.68 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 80.40 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691762718
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 37.03 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 3.60 mW
+-------------
+
+Timestamp: 1709691765794
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 81.20 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691768865
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.80 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691771926
+-------------
+Current to/from Batteries: 119.08 mA
+Current to Satellite: 36.29 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 644.20 mW
+Power consumed by Satellite: 162.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691775003
+-------------
+Current to/from Batteries: 39.61 mA
+Current to Satellite: 36.80 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 212.20 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691778070
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 36.87 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 80.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691781151
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 29.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691784224
+-------------
+Current to/from Batteries: 103.81 mA
+Current to Satellite: 36.23 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 507.00 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691787298
+-------------
+Current to/from Batteries: -7.45 mA
+Current to Satellite: 36.95 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691790369
+-------------
+Current to/from Batteries: 151.15 mA
+Current to Satellite: 37.10 mA
+Current from Solar Panel: -0.87 mA
+-------------
+Battery Voltage: 3.80 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 691.00 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691793438
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691796513
+-------------
+Current to/from Batteries: -7.46 mA
+Current to Satellite: 36.28 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691799583
+-------------
+Current to/from Batteries: 197.36 mA
+Current to Satellite: 37.03 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 872.00 mW
+Power consumed by Satellite: 163.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691802657
+-------------
+Current to/from Batteries: 7.79 mA
+Current to Satellite: 37.13 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 80.80 mW
+Power consumed by Satellite: 163.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691805729
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 37.15 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691808798
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.09 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691811871
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.56 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 3.60 mW
+-------------
+
+Timestamp: 1709691814945
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 37.22 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 79.20 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691818017
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.97 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 162.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691821088
+-------------
+Current to/from Batteries: 119.17 mA
+Current to Satellite: 36.89 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 508.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691824156
+-------------
+Current to/from Batteries: 419.36 mA
+Current to Satellite: 36.02 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.96 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.64 V
+-------------
+Power to/from Batteries: 1510.40 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691827233
+-------------
+Current to/from Batteries: 467.85 mA
+Current to Satellite: 37.08 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.60 V
+-------------
+Power to/from Batteries: 1882.80 mW
+Power consumed by Satellite: 162.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691830303
+-------------
+Current to/from Batteries: 104.59 mA
+Current to Satellite: 36.52 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 509.20 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691833377
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.78 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.40 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691836449
+-------------
+Current to/from Batteries: 120.11 mA
+Current to Satellite: 36.28 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 510.20 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691839511
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.35 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691842590
+-------------
+Current to/from Batteries: 468.62 mA
+Current to Satellite: 36.77 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.60 V
+-------------
+Power to/from Batteries: 1886.60 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691845664
+-------------
+Current to/from Batteries: -7.45 mA
+Current to Satellite: 36.20 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691848735
+-------------
+Current to/from Batteries: 152.48 mA
+Current to Satellite: 36.10 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 696.60 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691851810
+-------------
+Current to/from Batteries: 277.31 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.89 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.69 V
+-------------
+Power to/from Batteries: 1139.20 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691854881
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 35.84 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691857953
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.39 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691861026
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 37.11 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691864098
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.30 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691867169
+-------------
+Current to/from Batteries: 86.48 mA
+Current to Satellite: 36.38 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 211.80 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691870241
+-------------
+Current to/from Batteries: 165.17 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 685.80 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691873308
+-------------
+Current to/from Batteries: 165.01 mA
+Current to Satellite: 36.65 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 821.60 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691876386
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691879456
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.24 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691882530
+-------------
+Current to/from Batteries: -7.47 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691885602
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.76 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691888671
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.54 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691891745
+-------------
+Current to/from Batteries: 133.63 mA
+Current to Satellite: 36.16 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691894817
+-------------
+Current to/from Batteries: 197.61 mA
+Current to Satellite: 36.37 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 821.40 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691897889
+-------------
+Current to/from Batteries: 154.75 mA
+Current to Satellite: 36.09 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 686.80 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691900961
+-------------
+Current to/from Batteries: 7.72 mA
+Current to Satellite: 37.26 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 80.80 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691904033
+-------------
+Current to/from Batteries: -7.62 mA
+Current to Satellite: 37.16 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691907099
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.61 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 156.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691910174
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 35.91 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691913249
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.30 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691916321
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.96 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691919390
+-------------
+Current to/from Batteries: 197.08 mA
+Current to Satellite: 36.52 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 818.40 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691922464
+-------------
+Current to/from Batteries: 164.85 mA
+Current to Satellite: 36.32 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 820.60 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691925532
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.05 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 156.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691928608
+-------------
+Current to/from Batteries: -7.61 mA
+Current to Satellite: 36.39 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691931681
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.37 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691934753
+-------------
+Current to/from Batteries: 181.05 mA
+Current to Satellite: 35.99 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 754.80 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691937816
+-------------
+Current to/from Batteries: 150.52 mA
+Current to Satellite: 36.64 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.80 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 689.20 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691940894
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.41 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 26.00 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691943967
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 163.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691947041
+-------------
+Current to/from Batteries: 86.60 mA
+Current to Satellite: 36.98 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 211.40 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691950113
+-------------
+Current to/from Batteries: 197.63 mA
+Current to Satellite: 36.74 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 820.40 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691953185
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.56 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691956254
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 37.02 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 163.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691959329
+-------------
+Current to/from Batteries: -7.64 mA
+Current to Satellite: 36.71 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691962401
+-------------
+Current to/from Batteries: 86.70 mA
+Current to Satellite: 36.40 mA
+Current from Solar Panel: -0.67 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 394.60 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691965471
+-------------
+Current to/from Batteries: 212.29 mA
+Current to Satellite: 36.35 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1006.20 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691968545
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 35.90 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691971617
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.99 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691974687
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.67 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691977759
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 35.93 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691980833
+-------------
+Current to/from Batteries: 197.36 mA
+Current to Satellite: 36.04 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 820.20 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691983905
+-------------
+Current to/from Batteries: 117.93 mA
+Current to Satellite: 36.55 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 640.20 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691986976
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 37.07 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 162.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709691990047
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691993115
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.00 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691996192
+-------------
+Current to/from Batteries: 39.34 mA
+Current to Satellite: 36.52 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709691999262
+-------------
+Current to/from Batteries: 245.65 mA
+Current to Satellite: 36.81 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 824.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692002336
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.48 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692005406
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.30 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692008479
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 35.81 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 29.60 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692011553
+-------------
+Current to/from Batteries: 181.70 mA
+Current to Satellite: 36.44 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 765.40 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692014623
+-------------
+Current to/from Batteries: 150.60 mA
+Current to Satellite: 36.50 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 636.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692017687
+-------------
+Current to/from Batteries: -7.65 mA
+Current to Satellite: 36.09 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692020769
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.13 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692023838
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.00 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692026910
+-------------
+Current to/from Batteries: 86.92 mA
+Current to Satellite: 36.60 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 394.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692029985
+-------------
+Current to/from Batteries: 212.54 mA
+Current to Satellite: 36.85 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.86 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1007.80 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692033053
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.03 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692036124
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.25 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692039201
+-------------
+Current to/from Batteries: -7.48 mA
+Current to Satellite: 36.85 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692042265
+-------------
+Current to/from Batteries: 196.80 mA
+Current to Satellite: 36.80 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 816.80 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692045344
+-------------
+Current to/from Batteries: 197.48 mA
+Current to Satellite: 36.50 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 819.00 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692048415
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.47 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692051489
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.19 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.40 mW
+-------------
+
+Timestamp: 1709692054560
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 37.24 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692057628
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 36.73 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692060705
+-------------
+Current to/from Batteries: 197.09 mA
+Current to Satellite: 36.20 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 870.60 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692063777
+-------------
+Current to/from Batteries: 7.70 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 81.20 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692066847
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.05 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692069921
+-------------
+Current to/from Batteries: -7.62 mA
+Current to Satellite: 36.89 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692072988
+-------------
+Current to/from Batteries: 213.02 mA
+Current to Satellite: 37.07 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 872.60 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692076064
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.05 mA
+Current from Solar Panel: -0.65 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692079137
+-------------
+Current to/from Batteries: -7.44 mA
+Current to Satellite: 36.03 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692082206
+-------------
+Current to/from Batteries: 39.58 mA
+Current to Satellite: 37.15 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 211.00 mW
+Power consumed by Satellite: 162.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692085275
+-------------
+Current to/from Batteries: 23.08 mA
+Current to Satellite: 36.55 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 132.00 mW
+Power consumed by Satellite: 163.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692088352
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 35.89 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692091423
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.16 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 29.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692094497
+-------------
+Current to/from Batteries: 259.78 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.88 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.69 V
+-------------
+Power to/from Batteries: 1056.80 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692097568
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.51 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692100640
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 36.95 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692103711
+-------------
+Current to/from Batteries: 220.40 mA
+Current to Satellite: 36.52 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 873.80 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692106783
+-------------
+Current to/from Batteries: 7.87 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 80.00 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692109856
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.97 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692112928
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692115991
+-------------
+Current to/from Batteries: 22.99 mA
+Current to Satellite: 37.00 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 132.80 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692119073
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 35.67 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692122142
+-------------
+Current to/from Batteries: 260.83 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.90 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.68 V
+-------------
+Power to/from Batteries: 1197.20 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692125216
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.43 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692128288
+-------------
+Current to/from Batteries: 133.92 mA
+Current to Satellite: 36.75 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.20 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692131361
+-------------
+Current to/from Batteries: 56.20 mA
+Current to Satellite: 35.94 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.73 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 321.40 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692134431
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.44 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692137501
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 35.92 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692140575
+-------------
+Current to/from Batteries: 134.27 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 582.00 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692143647
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 37.29 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692146717
+-------------
+Current to/from Batteries: 469.20 mA
+Current to Satellite: 36.46 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 4.03 V
+Satellite Voltage (from Charge Controller): 4.35 V
+Solar Panel Voltage: 4.60 V
+-------------
+Power to/from Batteries: 1888.40 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692149792
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.39 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692152864
+-------------
+Current to/from Batteries: 104.25 mA
+Current to Satellite: 36.33 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 455.20 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692155937
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.16 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692159008
+-------------
+Current to/from Batteries: 181.75 mA
+Current to Satellite: 36.39 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 765.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692162079
+-------------
+Current to/from Batteries: 56.02 mA
+Current to Satellite: 36.36 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 268.20 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692165152
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.53 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692168225
+-------------
+Current to/from Batteries: -7.49 mA
+Current to Satellite: 37.07 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692171294
+-------------
+Current to/from Batteries: 134.28 mA
+Current to Satellite: 36.64 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.60 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692174368
+-------------
+Current to/from Batteries: 56.14 mA
+Current to Satellite: 36.23 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.73 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 268.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692177441
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.23 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692180513
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 37.30 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692183580
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.39 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692186657
+-------------
+Current to/from Batteries: 133.92 mA
+Current to Satellite: 36.28 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 579.40 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692189728
+-------------
+Current to/from Batteries: 165.39 mA
+Current to Satellite: 35.83 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 825.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692192799
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.12 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692195871
+-------------
+Current to/from Batteries: -7.48 mA
+Current to Satellite: 36.97 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692198944
+-------------
+Current to/from Batteries: 160.33 mA
+Current to Satellite: 36.53 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.80 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692202016
+-------------
+Current to/from Batteries: 165.17 mA
+Current to Satellite: 36.91 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 822.60 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692205088
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.30 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692208160
+-------------
+Current to/from Batteries: -7.48 mA
+Current to Satellite: 36.55 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692211232
+-------------
+Current to/from Batteries: -7.43 mA
+Current to Satellite: 36.44 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692214303
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.31 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 155.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692217376
+-------------
+Current to/from Batteries: 182.08 mA
+Current to Satellite: 36.27 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 766.20 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692220448
+-------------
+Current to/from Batteries: 175.10 mA
+Current to Satellite: 37.17 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 824.40 mW
+Power consumed by Satellite: 161.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692223520
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.21 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 163.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692226592
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.35 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692229662
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.32 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692232735
+-------------
+Current to/from Batteries: 133.58 mA
+Current to Satellite: 35.71 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.20 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692235805
+-------------
+Current to/from Batteries: 196.63 mA
+Current to Satellite: 37.07 mA
+Current from Solar Panel: -0.84 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 686.60 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692238880
+-------------
+Current to/from Batteries: 149.83 mA
+Current to Satellite: 36.74 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 686.20 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692241952
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.42 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692245022
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 35.96 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692248096
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.33 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692251168
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.65 mA
+Current from Solar Panel: -0.67 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692254240
+-------------
+Current to/from Batteries: 133.80 mA
+Current to Satellite: 36.17 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 579.20 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692257312
+-------------
+Current to/from Batteries: 209.45 mA
+Current to Satellite: 35.91 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 870.20 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692260383
+-------------
+Current to/from Batteries: 7.79 mA
+Current to Satellite: 36.37 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 79.60 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692263456
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.19 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692266528
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.69 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692269600
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.24 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.40 mW
+-------------
+
+Timestamp: 1709692272672
+-------------
+Current to/from Batteries: 197.57 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.85 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 819.60 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692275744
+-------------
+Current to/from Batteries: 148.26 mA
+Current to Satellite: 36.96 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.80 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 636.80 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692278816
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.64 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692281887
+-------------
+Current to/from Batteries: 244.93 mA
+Current to Satellite: 35.95 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1005.40 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692284960
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.35 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 155.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692288032
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.19 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692291103
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 37.11 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692294176
+-------------
+Current to/from Batteries: 165.38 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 825.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692297247
+-------------
+Current to/from Batteries: 117.81 mA
+Current to Satellite: 36.37 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.80 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.74 V
+-------------
+Power to/from Batteries: 636.80 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692300317
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692303392
+-------------
+Current to/from Batteries: -7.55 mA
+Current to Satellite: 36.61 mA
+Current from Solar Panel: -0.68 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692306462
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 37.08 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692309535
+-------------
+Current to/from Batteries: 181.52 mA
+Current to Satellite: 36.38 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.82 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 737.60 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692312608
+-------------
+Current to/from Batteries: 106.38 mA
+Current to Satellite: 36.53 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 503.60 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692315680
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.20 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692318743
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.43 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692321824
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.33 mA
+Current from Solar Panel: -0.80 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 157.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692324896
+-------------
+Current to/from Batteries: 86.80 mA
+Current to Satellite: 36.18 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 396.40 mW
+Power consumed by Satellite: 156.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692327968
+-------------
+Current to/from Batteries: 103.23 mA
+Current to Satellite: 36.13 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.77 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 504.40 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692331033
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.65 mA
+Current from Solar Panel: -0.69 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692334112
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 37.17 mA
+Current from Solar Panel: -0.84 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 162.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692337180
+-------------
+Current to/from Batteries: 39.43 mA
+Current to Satellite: 36.72 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 211.20 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692340256
+-------------
+Current to/from Batteries: 211.99 mA
+Current to Satellite: 35.91 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1004.80 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692343328
+-------------
+Current to/from Batteries: 7.78 mA
+Current to Satellite: 36.69 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.69 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 79.60 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692346400
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.79 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 165.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692349472
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.22 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692352544
+-------------
+Current to/from Batteries: 86.90 mA
+Current to Satellite: 36.43 mA
+Current from Solar Panel: -0.84 mA
+-------------
+Battery Voltage: 3.75 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.77 V
+-------------
+Power to/from Batteries: 395.60 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692355614
+-------------
+Current to/from Batteries: 212.03 mA
+Current to Satellite: 36.32 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1006.00 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692358688
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 37.31 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692361755
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 37.05 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 161.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692364832
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.40 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692367904
+-------------
+Current to/from Batteries: 212.52 mA
+Current to Satellite: 36.14 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 871.00 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692370976
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.95 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 161.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692374048
+-------------
+Current to/from Batteries: -7.57 mA
+Current to Satellite: 36.59 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692377120
+-------------
+Current to/from Batteries: -7.50 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692380192
+-------------
+Current to/from Batteries: 229.61 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.86 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.71 V
+-------------
+Power to/from Batteries: 945.40 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692383263
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.62 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692386336
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 37.40 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692389407
+-------------
+Current to/from Batteries: 244.62 mA
+Current to Satellite: 37.10 mA
+Current from Solar Panel: -0.66 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 820.60 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692392479
+-------------
+Current to/from Batteries: 70.69 mA
+Current to Satellite: 36.04 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 453.60 mW
+Power consumed by Satellite: 157.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692395551
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 35.99 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 156.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692398616
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.90 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 162.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692401695
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 37.11 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 162.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692404767
+-------------
+Current to/from Batteries: 134.29 mA
+Current to Satellite: 36.18 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 581.40 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692407839
+-------------
+Current to/from Batteries: 212.65 mA
+Current to Satellite: 36.70 mA
+Current from Solar Panel: -0.72 mA
+-------------
+Battery Voltage: 3.84 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1008.80 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692410905
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 35.79 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692413983
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.89 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 160.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692417056
+-------------
+Current to/from Batteries: -7.43 mA
+Current to Satellite: 36.75 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692420128
+-------------
+Current to/from Batteries: 134.58 mA
+Current to Satellite: 35.84 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 579.60 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692423199
+-------------
+Current to/from Batteries: 164.81 mA
+Current to Satellite: 35.75 mA
+Current from Solar Panel: -0.83 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 819.40 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692426271
+-------------
+Current to/from Batteries: 55.87 mA
+Current to Satellite: 36.83 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.78 V
+-------------
+Power to/from Batteries: 267.60 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692429343
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 37.04 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692432416
+-------------
+Current to/from Batteries: -7.56 mA
+Current to Satellite: 36.37 mA
+Current from Solar Panel: -0.85 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.80 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692435487
+-------------
+Current to/from Batteries: -7.60 mA
+Current to Satellite: 36.24 mA
+Current from Solar Panel: -0.79 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 155.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692438559
+-------------
+Current to/from Batteries: 134.20 mA
+Current to Satellite: 36.38 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.60 mW
+Power consumed by Satellite: 160.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692441631
+-------------
+Current to/from Batteries: 197.32 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.76 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 819.40 mW
+Power consumed by Satellite: 162.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692444703
+-------------
+Current to/from Batteries: 23.05 mA
+Current to Satellite: 35.94 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 221.60 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692447776
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.63 mA
+Current from Solar Panel: -0.85 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692450847
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.21 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 157.40 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692453919
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.72 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.20 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692456992
+-------------
+Current to/from Batteries: 39.43 mA
+Current to Satellite: 36.57 mA
+Current from Solar Panel: -0.67 mA
+-------------
+Battery Voltage: 3.72 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.79 V
+-------------
+Power to/from Batteries: 212.60 mW
+Power consumed by Satellite: 161.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692460064
+-------------
+Current to/from Batteries: 245.01 mA
+Current to Satellite: 36.23 mA
+Current from Solar Panel: -0.81 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 821.80 mW
+Power consumed by Satellite: 156.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692463136
+-------------
+Current to/from Batteries: 23.11 mA
+Current to Satellite: 35.81 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.70 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.80 V
+-------------
+Power to/from Batteries: 132.80 mW
+Power consumed by Satellite: 157.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692466208
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.65 mA
+Current from Solar Panel: -0.82 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 159.80 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692469279
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.38 mA
+Current from Solar Panel: -0.70 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 160.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692472352
+-------------
+Current to/from Batteries: -7.59 mA
+Current to Satellite: 36.17 mA
+Current from Solar Panel: -0.63 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692475424
+-------------
+Current to/from Batteries: -7.47 mA
+Current to Satellite: 35.83 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692478492
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.02 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692481568
+-------------
+Current to/from Batteries: 211.98 mA
+Current to Satellite: 37.18 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.81 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.73 V
+-------------
+Power to/from Batteries: 686.40 mW
+Power consumed by Satellite: 161.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692484640
+-------------
+Current to/from Batteries: 102.91 mA
+Current to Satellite: 36.60 mA
+Current from Solar Panel: -0.71 mA
+-------------
+Battery Voltage: 3.76 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 458.60 mW
+Power consumed by Satellite: 162.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692487712
+-------------
+Current to/from Batteries: -7.54 mA
+Current to Satellite: 36.28 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.40 mW
+Power consumed by Satellite: 158.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692490784
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.06 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 158.00 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692493855
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 35.92 mA
+Current from Solar Panel: -0.75 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 26.80 mW
+Power consumed by Satellite: 159.00 mW
+Power from Solar Panel: 4.20 mW
+-------------
+
+Timestamp: 1709692496920
+-------------
+Current to/from Batteries: 181.21 mA
+Current to Satellite: 36.77 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.79 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.75 V
+-------------
+Power to/from Batteries: 580.20 mW
+Power consumed by Satellite: 160.20 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692499999
+-------------
+Current to/from Batteries: 197.14 mA
+Current to Satellite: 36.22 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.83 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.72 V
+-------------
+Power to/from Batteries: 818.00 mW
+Power consumed by Satellite: 159.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692503065
+-------------
+Current to/from Batteries: 70.64 mA
+Current to Satellite: 35.82 mA
+Current from Solar Panel: -0.73 mA
+-------------
+Battery Voltage: 3.74 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.76 V
+-------------
+Power to/from Batteries: 453.20 mW
+Power consumed by Satellite: 156.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692506143
+-------------
+Current to/from Batteries: -7.51 mA
+Current to Satellite: 36.01 mA
+Current from Solar Panel: -0.78 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.60 mW
+Power consumed by Satellite: 157.60 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692509215
+-------------
+Current to/from Batteries: -7.53 mA
+Current to Satellite: 36.85 mA
+Current from Solar Panel: -0.74 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 160.80 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692512287
+-------------
+Current to/from Batteries: -7.58 mA
+Current to Satellite: 36.89 mA
+Current from Solar Panel: -0.68 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.81 V
+-------------
+Power to/from Batteries: 28.00 mW
+Power consumed by Satellite: 159.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692515359
+-------------
+Current to/from Batteries: -7.52 mA
+Current to Satellite: 36.34 mA
+Current from Solar Panel: -0.77 mA
+-------------
+Battery Voltage: 3.68 V
+Satellite Voltage (from Charge Controller): 4.37 V
+Solar Panel Voltage: 4.82 V
+-------------
+Power to/from Batteries: 27.20 mW
+Power consumed by Satellite: 158.40 mW
+Power from Solar Panel: 4.00 mW
+-------------
+
+Timestamp: 1709692518431
+-------------
+Current to/from Batteries: 212.31 mA
+Current to Satellite: 36.16 mA
+Current from Solar Panel: -0.68 mA
+-------------
+Battery Voltage: 3.87 V
+Satellite Voltage (from Charge Controller): 4.36 V
+Solar Panel Voltage: 4.70 V
+-------------
+Power to/from Batteries: 1007.80 mW
+Power consumed by Satellite: 158.80 mW
+Power from Solar Panel: 4.00 mW
+-------------

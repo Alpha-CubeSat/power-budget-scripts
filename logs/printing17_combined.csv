@@ -1,0 +1,10 @@
+Time,Current to/from Batteries (mA),Current to Satellite (mA),Current from Solar Panel (mA),Battery Voltage (TB),Satellite Voltage,Solar Panel Voltage,Power to/from Batteries (mW),Power consumbed by Sattelite (mW),Power from Solar Panel (mW),Current Mission Mode,ACS Mode,ACS On/Off,Battery Voltage (Onboard),IMU On/Off,Optical Sensor On/Off,Solar Current (Onboard),RockBLOCK Sleeping/Awake,RockBLOCK Mode
+1709692533277,-7.57,36.40,-0.75,3.68,4.37,4.82,28.40,157.60,4.00,Boot,DETUMBLE,OFF,3.84,powered,UNpowered,30.01,sleeping,0
+1709692536349,181.68,37.05,-0.80,3.82,4.36,4.73,765.60,158.80,4.20,Boot,DETUMBLE,OFF,3.84,powered,UNpowered,30.00,sleeping,0
+1709692539421,149.66,36.28,-0.75,3.81,4.36,4.73,686.00,158.60,4.00,Boot,DETUMBLE,OFF,3.84,powered,UNpowered,30.04,sleeping,0
+1709692542495,117.79,36.06,-0.67,3.77,4.36,4.75,541.60,157.80,4.20,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,30.07,sleeping,0
+1709692545567,-7.56,37.11,-0.76,3.68,4.37,4.82,28.00,161.00,4.00,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,30.00,sleeping,0
+1709692548640,-7.51,36.33,-0.84,3.68,4.37,4.81,28.00,160.80,4.00,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,29.98,sleeping,0
+1709692551711,-7.54,36.09,-0.78,3.68,4.37,4.82,27.20,157.40,4.00,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,29.99,sleeping,0
+1709692554783,133.58,36.32,-0.70,3.75,4.36,4.77,395.20,158.60,4.00,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,30.00,sleeping,0
+1709692557853,165.05,36.40,-0.80,3.81,4.36,4.72,791.00,158.00,4.20,Boot,DETUMBLE,OFF,3.85,powered,UNpowered,29.99,sleeping,0
