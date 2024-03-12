@@ -1,0 +1,74 @@
+--------------------START LOOP--------------------
+Timestamp: 1710182697337
+Current Mission Mode: Boot
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: DETUMBLE
+ACS OFF
+Battery INvalid
+IMU powered
+MAG X: 22.84
+MAG Y: -11.01
+MAG Z: -3.63
+GYRO X: 0.05
+GYRO Y: -0.04
+GYRO Z: -0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp INvalid
+Solar Current INvalid
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 12841
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 0
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
+--------------------START LOOP--------------------
+Timestamp: 1710182700337
+Current Mission Mode: Boot
+Button pressed
+Button valid
+Photoresistor covered
+Photoresistor valid
+ACS Mode: DETUMBLE
+ACS OFF
+Battery INvalid
+IMU powered
+MAG X: 23.12
+MAG Y: -11.21
+MAG Z: -5.46
+GYRO X: 0.05
+GYRO Y: -0.04
+GYRO Z: -0.01
+IMU valid
+IMU initialization failed attempts: 0
+Optical sensor UNpowered
+Optical sensor initialization failed attempts: 0
+Temp INvalid
+Solar Current INvalid
+RockBLOCK sleeping
+RockBLOCK Mode: 0
+Total time alive (across all boots): 15885
+BURNWIRE: attempts 0
+BURNWIRE: standby
+RockBLOCK Same Mode: 0
+Rockblock Not Ready to Downlink
+PWM: 0
+PWM: 0
+PWM: 0
+IMU is on
+Cycle time (ms): 100
+--------------------END LOOP--------------------
+ 
