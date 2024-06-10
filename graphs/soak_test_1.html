@@ -1,7 +1,8 @@
-<html>
-    <head>
-        <script src="https://d3js.org/d3.v7.min.js"></script>
-        <script src="https://d3js.org/topojson.v3.min.js"></script>
+
+<!-- saved from url=(0095)file:///C:/Users/Pawn1st/flight/power-budget-scripts/graphs/PracticeCycleJune5/soak_test_1.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <script src="./soak_test_1_files/d3.v7.min.js.download"></script>
+        <script src="./soak_test_1_files/topojson.v3.min.js.download"></script>
         <style>
             /* Styles for gridlines */
             .gridlines line {
@@ -19,7 +20,7 @@
         <div>
             <h3>
             <!-- FILL IN TEST NAME -->
-            Soak Test 1
+            PracticeCycleJune5
             </h3>
         </div>
         
@@ -27,19 +28,19 @@
             <p>
                 <b>Description:</b>
                 <!-- FILL IN DESCRIPTION -->
-                Soak test from Initialization phase through Standby phase before light sail deployment sequence is initiated.
+                Langston/Benson 3h test.
             </p>
 
             <p>
                 <b>Date:</b>
                 <!-- FILL IN DATE -->
-                Started 12/14/2023
+                Started June 5 2pm
             </p>
 
             <p>
                 <b>Duration:</b>
                 <!-- FILL IN DURATION -->
-                ~15 hours
+                ~3 hours
             </p>
 
             <p>
@@ -71,9 +72,9 @@
 
             <label for="power">Choose Power Data:</label>
             <select name="power" id="power" onchange="requestData()">
+                <option value="Current to Satellite (mA)">Current to Satellite</option>
                 <option value="Battery Voltage (Onboard)">Onboard Battery Voltage (V)</option>
                 <option value="Current to/from Batteries (mA)">Current to/from Batteries</option>
-                <option value="Current to Satellite (mA)">Current to Satellite</option>
                 <option value="Current from Solar Panel (mA)">Current from Solar Panel</option>
                 <option value="Battery Voltage (TB)">Testbed Battery Voltage</option>
                 <option value="Satellite Voltage">Satellite Voltage</option>
@@ -90,12 +91,16 @@
                 const requestData = async function () {
                     const margin = { "top": 10, "right": 10, "bottom": 40, "left": 60};
 
+                    // Clear the existing graph
+                    d3.select("#plottin").selectAll("*").remove();
+
                     // FILL IN CSV FILE
-                    const rawData = await d3.csv("../logs/soak_test_2_combined.csv", d3.autoType);
+                    const rawData = await d3.csv("PracticeCycleJune5_combined.csv", d3.autoType);
 
                     const flightField = document.getElementById("flight").value;
-                    // const powerField = document.getElementById("power").value;
-                    const powerField = "Battery Voltage (Onboard)"
+
+                    // Get the selected value from the dropdown menu
+                    const powerField = document.getElementById("power").value; 
 
                     let data = []
 
@@ -233,6 +238,7 @@
         </div>
 
         
-    </body>
-</html>
+    
 
+
+</body></html>
