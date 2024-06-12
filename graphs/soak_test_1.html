@@ -94,6 +94,10 @@
                     // Clear the existing graph
                     d3.select("#plottin").selectAll("*").remove();
 
+                    // Clear existing legend
+                    d3.select(".legend").remove();    
+
+                
                     // FILL IN CSV FILE
                     const rawData = await d3.csv("PracticeCycleJune5_combined.csv", d3.autoType);
 
