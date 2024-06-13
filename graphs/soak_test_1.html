@@ -20,7 +20,7 @@
         <div>
             <h3>
             <!-- FILL IN TEST NAME -->
-            PracticeCycleJune5
+            June 12
             </h3>
         </div>
         
@@ -28,19 +28,19 @@
             <p>
                 <b>Description:</b>
                 <!-- FILL IN DESCRIPTION -->
-                Langston/Benson 3h test.
+                28h test
             </p>
 
             <p>
                 <b>Date:</b>
                 <!-- FILL IN DATE -->
-                Started June 5 2pm
+                Started June 12 8am
             </p>
 
             <p>
                 <b>Duration:</b>
                 <!-- FILL IN DURATION -->
-                ~3 hours
+                ~28h
             </p>
 
             <p>
@@ -52,7 +52,7 @@
             <p>
                 <!-- FILL IN COMMIT HASH -->
                 <b>Commit Hash:</b>
-                fb35559
+                Not yet committed
             </p>
         </div>
         
@@ -94,12 +94,11 @@
                     // Clear the existing graph
                     d3.select("#plottin").selectAll("*").remove();
 
-                    // Clear existing legend
-                    d3.select(".legend").remove();    
+                    // Remove legend
+                    d3.select(".legend").remove();
 
-                
                     // FILL IN CSV FILE
-                    const rawData = await d3.csv("PracticeCycleJune5_combined.csv", d3.autoType);
+                    const rawData = await d3.csv("June12_combined.csv", d3.autoType); //change this accordingly!
 
                     const flightField = document.getElementById("flight").value;
 
@@ -111,7 +110,14 @@
                     // Filter data
                     rawData.forEach(d => {
                         if (d["Time"] != null && d[flightField] != null && d[powerField] != null) {
-                            data.push(d);
+                            if (powerField == "Battery Voltage (Onboard)"){
+                                if (d[powerField] > 3.5){ //ensures that battery voltage is above 3.5
+                                    data.push(d)
+                                }
+                            }
+                            else {
+                                data.push(d);
+                            }   
                         }
                     });
 
