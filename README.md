@@ -15,4 +15,5 @@ To create a plot for a test run, create a new `html` file from `template.html` i
 To see the plots:
 1. Run `cd graphs` in the terminal.
 2. Run `python -m http.server 8000` in the terminal.
-3. Select the test run you wish to view.
+3. Go to http://localhost:8000 in browser.
+4. Select the test run you wish to view.
