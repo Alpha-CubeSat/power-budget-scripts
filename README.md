@@ -1,6 +1,6 @@
 # Power Budget Scripts
 
-Tools for power budget tests.
+Data collection and plotting tools for power budget tests. These can be repurposed to a general serial monitor scraper and plotting tool.
 
 To see which serial ports are active, run `python get_ports.py` in the terminal.
 
