@@ -13,7 +13,7 @@ To run the logging script in `serial_logger.py`:
 To create a plot for a test run, create a new `html` file from `template.html` in the `graphs` directory and complete all the "FILL IN..." prompts.
 
 To see the plots:
-1. Run `cd graphs` in the terminal.
-2. Run `python -m http.server 8000` in the terminal.
-3. Go to http://localhost:8000 in browser.
+1. Run `python -m http.server 8000` in the terminal in the repo's base directory (the command needs to be run in the base direcotry to load the csv files from the "logs" folder).
+2. Go to http://localhost:8000 in browser.
+3. Click into the graphs link.
 4. Select the test run you wish to view.

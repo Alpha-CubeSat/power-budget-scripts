@@ -35,7 +35,7 @@
             <p>
                 <b>Description:</b>
                 <!-- FILL IN DESCRIPTION -->
-                Initial test run to test logging and plotting code.
+                Template for graphing tool.
             </p>
 
             <p>
@@ -54,8 +54,8 @@
             </p>
 
             <p>
-                <!-- FILL IN COMMIT HASH -->
                 <b>Commit Hash:</b>
+                <!-- FILL IN COMMIT HASH -->
             </p>
         </div>
         
@@ -107,9 +107,15 @@
         </div>
         <div>
             <script>
+                function debounce(func, delay) {
+                    let timeout;
+                    return function(...args) {
+                        clearTimeout(timeout);
+                        timeout = setTimeout(() => func.apply(this, args), delay);
+                    };
+                }
                 
                 const render = async function () {
-                    const margin = { "top": 10, "right": 10, "bottom": 40, "left": 60};
 
                     // FILL IN CSV FILE. Example: "../logs/test.csv"
                     const data = await d3.csv("../logs/June27_combined.csv", d3.autoType);
@@ -130,6 +136,7 @@
                     const powerField = document.getElementById("power").value;
 
                     // Select SVG and attributes
+                    const margin = { "top": 10, "right": 10, "bottom": 40, "left": 60};
                     const svg = d3.select("#plottin");
                     svg.selectAll("*").remove(); // Clear old contents for redraw
                     const height = svg.attr("height");
@@ -173,15 +180,23 @@
                         .x(function(d) { return timeScale(d["Time"]); })
                         .y(function(d) { return powerScale(d[powerField]); })
 
-                    chart.append("path")
-                        .datum(data)
-                        .attr("class", "line")
-                        .attr("fill", "none")
-                        .attr("stroke", function(d) {
-                            return colorScale(d[flightField]);
-                        })
-                        .attr("stroke-width", 2)
-                        .attr("d", lineGenerator)
+                    data.forEach((d, i) => {
+                        // Skip the last point to avoid accessing undefined data
+                        if (i > 0) {
+                            const segmentData = [d, data[i + 1]];
+                            const pathColor = colorScale(d[flightField])
+
+                            chart.append("path")
+                                .attr("class", "line")
+                                .attr("d", lineGenerator([
+                                    { "Time": data[i - 1]["Time"], [powerField]: data[i - 1][powerField] },
+                                    { "Time": d["Time"], [powerField]: d[powerField] }
+                                ]))
+                                .attr("fill", "none")
+                                .attr("stroke", pathColor)
+                                .attr("stroke-width", 1);
+                        }
+                    });
 
                     // Add circles to chart element
                     const circles = chart.selectAll(".circle")
@@ -235,7 +250,7 @@
                         .default([d3.min(data, d => d["Time"]), d3.max(data, d => d["Time"])])
                         .fill('#85bb65');
 
-                    sliderRange.on('onchange', val => {
+                    sliderRange.on('onchange', debounce(val => {
                         // Set new domain for x scale
                         timeScale.domain(val);
 
@@ -255,16 +270,24 @@
                         svg.select(".y-axis").remove();
                         svg.select(".y-gridlines").remove();
 
-                        // Update the line and area to new domain
-                        chart.append("path")
-                            .datum(filteredData)
-                            .attr("class", "line")
-                            .attr("fill", "none")
-                            .attr("stroke", function(d) {
-                                return colorScale(d[flightField]);
-                            })
-                            .attr("stroke-width", 2)
-                            .attr("d", lineGenerator)
+                        // Update data points to new domain
+                        filteredData.forEach((d, i) => {
+                            // Skip the last point to avoid accessing undefined data
+                            if (i > 0) {
+                                const segmentData = [d, filteredData[i + 1]];
+                                const pathColor = colorScale(d[flightField])
+
+                                chart.append("path")
+                                    .attr("class", "line")
+                                    .attr("d", lineGenerator([
+                                        { "Time": filteredData[i - 1]["Time"], [powerField]: filteredData[i - 1][powerField] },
+                                        { "Time": d["Time"], [powerField]: d[powerField] }
+                                    ]))
+                                    .attr("fill", "none")
+                                    .attr("stroke", pathColor)
+                                    .attr("stroke-width", 1);
+                            }
+                        });
 
                         const circles = chart.selectAll(".circle")
                             .data(filteredData)
@@ -278,29 +301,29 @@
                             const y = powerScale(d[powerField]);
 
                             g.append("circle")
-                            .attr("cx", x)
-                            .attr("cy", y)
-                            .attr("r", 3)
-                            .attr("fill", function(d) {
-                                return colorScale(d[flightField]);
-                            })
-                            .on("mouseover", function(event) {
-                                const formatTime = d3.timeFormat('%Y-%m-%d %H:%M');
-                                // Show tooltip
-                                tooltip.style("visibility", "visible")
-                                    .html(`Time: ${formatTime(d["Time"])}<br>${powerField}: ${d[powerField]}<br>${flightField}: ${d[flightField]}`)
-                                    .style("left", (event.pageX + 5) + "px")
-                                    .style("top", (event.pageY - 28) + "px");
+                                .attr("cx", x)
+                                .attr("cy", y)
+                                .attr("r", 3)
+                                .attr("fill", function(d) {
+                                    return colorScale(d[flightField]);
                                 })
-                            .on("mousemove", function(event) {
-                                // Update tooltip position
-                                tooltip.style("left", (event.pageX + 5) + "px")
-                                    .style("top", (event.pageY - 28) + "px");
-                            })
-                            .on("mouseout", function() {
-                                // Hide tooltip
-                                tooltip.style("visibility", "hidden");
-                            });
+                                .on("mouseover", function(event) {
+                                    const formatTime = d3.timeFormat('%Y-%m-%d %H:%M');
+                                    // Show tooltip
+                                    tooltip.style("visibility", "visible")
+                                        .html(`Time: ${formatTime(d["Time"])}<br>${powerField}: ${d[powerField]}<br>${flightField}: ${d[flightField]}`)
+                                        .style("left", (event.pageX + 5) + "px")
+                                        .style("top", (event.pageY - 28) + "px");
+                                    })
+                                .on("mousemove", function(event) {
+                                    // Update tooltip position
+                                    tooltip.style("left", (event.pageX + 5) + "px")
+                                        .style("top", (event.pageY - 28) + "px");
+                                })
+                                .on("mouseout", function() {
+                                    // Hide tooltip
+                                    tooltip.style("visibility", "hidden");
+                                });
                         });
 
                         // Create new x-axis and x-axis gridlines
@@ -315,9 +338,9 @@
                             .call(xGridlines);
 
                         svg.append("g")
-                        .attr("class", "x-intervals")
-                        .attr("transform", `translate(${margin.left} , ${height - margin.bottom + 10})`)
-                        .call(d3.axisBottom(timeScale));
+                            .attr("class", "x-intervals")
+                            .attr("transform", `translate(${margin.left} , ${height - margin.bottom + 10})`)
+                            .call(d3.axisBottom(timeScale));
 
                         // Create new y-axis and y-axis gridlines
                         svg.append("g")
@@ -334,7 +357,7 @@
                             .attr("class", "y-intervals")
                             .attr("transform", `translate(${margin.left - 10}, ${margin.top})`)
                             .call(d3.axisLeft(powerScale));
-                    });
+                    }, 300));
 
                     // Add the slider to the DOM
                     const gRange = d3
